@@ -20,7 +20,13 @@ How to start the Bot
 
 https://core.telegram.org/bots
 
-### Run the programm
+### Install requeriments
+
+```
+pip install -r requeriments.txt
+```
+
+### Run the program
 
 ```
 python pologrambot.py
