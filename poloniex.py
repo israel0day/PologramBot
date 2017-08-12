@@ -6,6 +6,9 @@ from colorama import Fore, Back, Style
 # Coded By: @Uservzk80
 # Github: https://github.com/uservzk80
 
+# Thanks @dyvosvit for core of this script
+# Github: https://github.com/dyvosvit
+
 print ("Uservzk80 - Poloniex ;)")
 print ("Started %s" % (time.ctime()))
 
