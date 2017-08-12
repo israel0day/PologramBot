@@ -32,3 +32,6 @@ Contributions are always welcome!.
 
 ## Donations
 Any donation is welcome. Invite me to a cafe to make more incredible ideas ;)<img src="http://i.imgur.com/NiwfM0U.png" align='right'/>
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
