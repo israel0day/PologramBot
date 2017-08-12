@@ -3,7 +3,7 @@
 # PologramBot [![TelegramBot](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/uservzk80/PologramBot)
 Telegram Bot for Poloniex
 
-PologramBot is a project that allows you to consult your balances and trades of Poloniex using Telegram
+PologramBot is a project that allows you to consult your balances and trades of Poloniex using Telegram. Screenshot Pologram: https://prnt.sc/g7of7v
 
 ## Built With
 
