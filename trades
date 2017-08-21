@@ -1,0 +1,1 @@
+File where trades will be saved. If the file does not exist, it generates an error when using the telegram.
